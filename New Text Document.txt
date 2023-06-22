@@ -1,0 +1,11 @@
+1!meaningfull variable name
+2!used only let and const 
+3!most used const
+4!only used when want 
+5!most used arrow function not using <this> function in arrow function
+6!used promised not used callbackfunction
+6!error handling 
+7!templeted litteral
+8!indentation
+9!linter
+10! alway used 
